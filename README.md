@@ -3,7 +3,7 @@
 
 # 📗 Table of Contents
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Hello Rails React ](#-hello-rails-react-)
+- [📖 Hello Rails Backend ](#-hello-rails-backend-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -25,7 +25,7 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 Hello Rails Backend <a name="about-the-project"></a>
-**Hello Rails Backend** is an implemention of a connection between Ruby on Rails back-end and React front-end. [Hello Rails Backend](https://github.com/blase147/hello-rails-back-end) handles the backend API, and [Hello React Frontend](https://github.com/blase147/hello-react-frontend) handles the frontend UI to display a random greeting message.
+**Hello Rails Backend** is an implemention of a connection between Ruby on Rails back-end and React front-end. [Hello Rails Backend](https://github.com/blase147/hello-rails-back-end) handles the backend API, and [Hello React Frontend](https://github.com/blase147/hello-react-front-end) handles the frontend UI to display a random greeting message.
 
 ## 🛠 Built With <a name="built-with"></a>
 
